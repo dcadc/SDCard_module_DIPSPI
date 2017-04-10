@@ -11,5 +11,5 @@
   
 *Read this in other languages: [English](README.en.md), [正體中文](README.md).*  
 
-   [sw]: <https://github.com/dcadc/SDCard_module_DIPSPI/software/Taiwanduino>
-   [libs]: <https://github.com/dcadc/SDCard_module_DIPSPI/software/Taiwanduino/README.md>
+   [sw]: <https://github.com/dcadc/SDCard_module_DIPSPI/tree/master/software/Taiwanduino/example/>
+   [libs]: <https://github.com/dcadc/SDCard_module_DIPSPI/blob/master/software/Taiwanduino/README.md>
