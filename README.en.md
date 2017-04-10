@@ -1,5 +1,5 @@
 # SDCard_module_DIPSPI
-This is SDCard module board for SPI EEPROM socket (compatible for TaiwanDuino)  
+This is a SDCard module board for SPI EEPROM socket (compatible with TaiwanDuino)  
 which can replace the original 25AA512 EEPROM
 
 **Howto**
