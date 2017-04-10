@@ -4,22 +4,12 @@
 
 **使用說明**
 * TaiwanDuino :   
- [/software/Taiwanduino/example] [sw] 資料夾內的程式碼使用 Arduino IDE 開啟  
- [安裝相對應的程式庫] [libs]之後即可編譯上傳  
- 
-
+ [/software/Taiwanduino/example][sw] 資料夾內的程式碼使用 Arduino IDE 開啟  
+ [安裝相對應的程式庫][libs]之後即可編譯上傳  
   
 ***
   
-[English]  
-This is SDCard module board for SPI EEPROM socket (compatible for TaiwanDuino)  
-which can replace the original 25AA512 EEPROM
+*Read this in other languages: [English](README.en.md), [正體中文](README.md).*  
 
-**Howto**
-* TaiwanDuino :  
- [/software/Taiwanduino/example] [sw] contains the example sketches  
- after [installing the libraries] [libs], you will be able to upload your sketch      
-     
-     
    [sw]: <https://github.com/dcadc/SDCard_module_DIPSPI/software/Taiwanduino>
    [libs]: <https://github.com/dcadc/SDCard_module_DIPSPI/software/Taiwanduino/README.md>
